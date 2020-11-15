@@ -1,5 +1,6 @@
-# Docker-Compose-Swarm-Example
+# Docker Swarm Training
+Docker Compose project made for training Docker Swarm.
 
-Architecture
+## Architecture
 
 ![alt text](https://github.com/dockersamples/example-voting-app/blob/master/architecture.png)
